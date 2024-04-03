@@ -1,2 +1,1 @@
-# Calculator
-Calculator For Fun
+-  A simple calculator with a good design using vanilla javascript.
